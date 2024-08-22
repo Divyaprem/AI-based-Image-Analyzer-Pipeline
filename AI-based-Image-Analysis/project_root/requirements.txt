@@ -1,0 +1,13 @@
+streamlit
+Pillow
+torchvision
+torch
+matplotlib
+numpy
+easyocr
+transformers
+json
+unittest
+transformers
+numpy
+zipfile
