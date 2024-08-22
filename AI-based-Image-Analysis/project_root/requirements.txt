@@ -6,7 +6,6 @@ matplotlib
 numpy
 easyocr
 transformers
-json
 unittest
 transformers
 numpy
