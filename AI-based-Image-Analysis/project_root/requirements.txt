@@ -6,7 +6,6 @@ matplotlib
 numpy
 easyocr
 transformers
-unittest
 transformers
 numpy
 zipfile
