@@ -8,5 +8,3 @@ easyocr
 transformers
 transformers
 numpy
-zipfile
-unittest
