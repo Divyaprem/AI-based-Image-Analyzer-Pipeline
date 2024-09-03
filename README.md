@@ -1,4 +1,3 @@
-# wasserstoff-AiInternTask
 An AI Pipeline for Image Segmentation and Object Analysis
 
 This project implements an AI pipeline for detecting objects and extracting text from images, using models like Faster R-CNN, image segmentation, and OCR. The app also summarizes detected objects and text, providing a comprehensive analysis of the uploaded image.
